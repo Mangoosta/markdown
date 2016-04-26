@@ -1,0 +1,29 @@
+{
+  "name": "Markdown Editor",
+  "version": "0.2.0",
+  "description": "Markdown javascript web  editor platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://culata.dst.pdvsa.com:9080/dst/markdown.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Alvaro Fernandez",
+  "contributors": [
+    "Ernesto Crespo <ecrespo@gmail.com> (http://blog.crespo.org.ve)"
+  ],
+  "license": "MIT"
+}
