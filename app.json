@@ -1,6 +1,6 @@
 {
   "name": "MarkdownwebEditor",
-  "description": "Markdown javascript web  editor platform",
+  "description": "Markdown javascript web editor platform",
   "repository": "http://culata.dst.pdvsa.com:9080/dst/markdown.git",
   "keywords": ["node", "express", "static","markdown editor"]
 }
