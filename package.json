@@ -1,5 +1,5 @@
 {
-  "name": "Markdown web editor",
+  "name": "MarkdownWebEditor",
   "version": "0.2.0",
   "description": "Markdown javascript web  editor platform",
   "main": "index.js",
